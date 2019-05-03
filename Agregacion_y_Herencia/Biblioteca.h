@@ -33,12 +33,13 @@ public:
 
 class Biblioteca{
     std::vector <Volumen*> biblioteca;
-    int numVolumen;
+    int numLibro;
+    int numRevista;
 public:
     Biblioteca();
     void mostrarBiblioteca();
-    int tamano(){ return numVolumen;};
-    void incluir(Volumen *v);
+    int tamano(){ return numLibro+numRevista;};
+    void incluir(char tipo, std::string nombre);
     ~Biblioteca();
 };
 

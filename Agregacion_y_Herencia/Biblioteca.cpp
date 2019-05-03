@@ -13,21 +13,31 @@ void Revista::mostrar() {
 }
 
 Biblioteca::Biblioteca() {
-    numVolumen=0;
+    numLibro=0;
+    numRevista=0;
 }
 
 void Biblioteca::mostrarBiblioteca() {
-    for (int i=0; i<numVolumen; i++){
+    for (int i=0; i<numLibro+numRevista; i++){
         biblioteca[i]->mostrar();
     }
 }
 
-void Biblioteca::incluir(Volumen *v) {
-    Libro* l= dynamic_cast<Libro*>(v);
-    Revista* r= dynamic_cast<Revista*>(v);
-    if(l!= nullptr){biblioteca.push_back(l);}
-    if(r!= nullptr){biblioteca.push_back(r);}
-    numVolumen++;
+void Biblioteca::incluir(char tipo, std::string nombre) {
+    switch (tipo){
+        case 'L':{
+            numLibro++;
+            Libro* l=new Libro(numLibro,numRevista+numLibro,nombre);
+            biblioteca.push_back(l);
+            break;
+        }
+        case 'R':{
+            numRevista++;
+            Revista* r=new Revista(numRevista,numRevista+numLibro,nombre);
+            biblioteca.push_back(r);
+            break;
+        }
+    }
 }
 
 Biblioteca::~Biblioteca() {

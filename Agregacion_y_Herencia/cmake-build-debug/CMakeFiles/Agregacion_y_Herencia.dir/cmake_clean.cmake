@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Agregacion_y_Herencia.dir/main.cpp.o"
   "CMakeFiles/Agregacion_y_Herencia.dir/Biblioteca.cpp.o"
+  "CMakeFiles/Agregacion_y_Herencia.dir/Biblioteca_test.cpp.o"
   "Agregacion_y_Herencia.pdb"
   "Agregacion_y_Herencia"
 )

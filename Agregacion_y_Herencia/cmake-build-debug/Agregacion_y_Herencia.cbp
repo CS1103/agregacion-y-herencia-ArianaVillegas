@@ -90,6 +90,9 @@
 		<Unit filename="/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/Biblioteca.h">
 			<Option target="Agregacion_y_Herencia"/>
 		</Unit>
+		<Unit filename="/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/Biblioteca_test.cpp">
+			<Option target="Agregacion_y_Herencia"/>
+		</Unit>
 		<Unit filename="/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/main.cpp">
 			<Option target="Agregacion_y_Herencia"/>
 		</Unit>

@@ -6,6 +6,18 @@
 
 #IncludeRegexTransform: 
 
+/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/Biblioteca.h
+string
+-
+vector
+-
+
+/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/Biblioteca_test.cpp
+catch.hpp
+/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/catch.hpp
+Biblioteca.h
+/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/Biblioteca.h
+
 /home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/catch.hpp
 TargetConditionals.h
 -
@@ -455,10 +467,4 @@ algorithm
 -
 cassert
 -
-
-/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/main.cpp
-iostream
--
-catch.hpp
-/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/catch.hpp
 
