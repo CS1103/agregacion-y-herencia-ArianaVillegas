@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Agregacion_y_Herencia.dir/main.cpp.o CMakeFiles/Agregacion_y_Herencia.dir/Biblioteca.cpp.o  -o Agregacion_y_Herencia 

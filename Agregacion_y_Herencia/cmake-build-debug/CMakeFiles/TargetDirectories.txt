@@ -1,0 +1,3 @@
+/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/cmake-build-debug/CMakeFiles/Agregacion_y_Herencia.dir
+/home/ariana/UTEC/POO 2/CLASES/Clase_5/agregacion-y-herencia-ArianaVillegas/Agregacion_y_Herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
